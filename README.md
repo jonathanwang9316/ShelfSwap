@@ -86,3 +86,6 @@ The application is powered by a robust MySQL relational database. The schema is 
 > **Note:** For a full ER Diagram and detailed table specifications, please check the `/doc` folder.
 
 ---
+
+## 📄 License
+Distributed under the MIT License. See `LICENSE` for more information.
